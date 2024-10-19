@@ -20,12 +20,12 @@ layout: layouts/default.liquid
   {% endif %}
 
   <section>
-    <h2>More articles</h2>
+    <h2>More posts</h2>
     {% assign posts = collections.posts %}
     {% assign count = 5 %}
     {% assign offset = 1 %}
     {% include "postlist.liquid" %}
-    <a class="articles-link" href="/articles">All the articles</a>
+    <a class="articles-link" href="/articles">All the posts</a>
   </section>
 </div>
 

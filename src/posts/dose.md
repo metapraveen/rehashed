@@ -51,4 +51,60 @@ What can you do to improve dopamine function?
 
 - Discipline
 
-  - Being disciplined raises your baseline dopamine, which increases motivation in other areas of life. For example, cleaning your desk before work not only feels good, but it also motivates you to do better work because your dopamine levels are improved.
+  - Being bit more disciplined raises your baseline dopamine, which increases motivation in other areas of life. For example, cleaning your desk before work not only feels good, but it also motivates you to do better work because your dopamine levels are improved.
+
+#### Oxytocin
+
+Oxytocin helps to create feelings of love, trust, and bonding in humans. When you have healthy levels of oxytocin you feel confident, calmer and full filled. Brain releases oxcytocin when you connect with other human
+
+Anything that distracts our capacity to connect with other reduces the this chemical in brain. Connecting via social media moderately satisfies this chemical then chemical starts kicking back and starts dysfunctioning.
+
+What can you do to improve oxcytocin function?
+
+- Physical touch
+
+  - Anytime you touch a human or an animal oxcytocin raises in your brain
+
+- Contribution
+
+  - When you contribute something to improve someone else's life your oxcytocin level raises. This is because we evolved in groups helping each other in the wild to survive.
+
+- Active listening
+
+  - When someone speaks to you listening to them actively to undestand them instead of thinking what you could reply.
+
+- Style of self talk
+
+  - Have a list of things you are greatful in life, revisit them at least once a day which might take few minutes
+
+- Celebrate your achievements
+  - Celebrate your small wins and achievements. This leads to higher oxcytocin and confidence
+  - Be easy on yourself when you make mistakes, if you are over critical to yourself its hard to be confident
+
+#### Serotonin
+
+Also known as feel good chemical seretonin responsible for mood, energy & sleep. A big percentage of this gets generated in our gut and ultra processed food makes it hard to get healthy levels of seretonin. Low levels of seretonin is one of reasons behind low mood, brain fogg and tiredness.
+
+What can you do to elevate seretonin levels?
+
+- Gut Health
+
+  - If you are consuming nutrient-dense, whole foods (such as protein sources, fruits, vegetables, nuts, seeds) this elevates serotonin production in the gut. Processed foods disrupt this, causing dips in serotonin levels.
+  - Probiotics: Consume probiotic-rich foods like kombucha, kefir, or yogurt to support gut health and serotonin production.
+
+- Walk in Nature Without Headphones
+
+  - Spend time walking in nature. This helps restore serotonin levels, calms the nervous system, and reconnects the body with its natural environment.
+
+- Sunlight
+
+  - Get sunlight exposure, especially in the morning. It helps elevate serotonin levels and sets up your day with an energetic boost.
+
+- Slow Breathing
+
+  - Practice resonance breathing (four seconds in, six seconds out) to calm the nervous system and elevate serotonin levels. Doing this while in sunlight amplifies the effect.
+
+- Sleep
+  - good sleep quality promotes serotonin production, which helps mental clarity and mood the next day. Avoid sugary foods or excessive dopamine-triggering behaviors before bed.
+
+#### Endorphin
