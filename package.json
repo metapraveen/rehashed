@@ -1,0 +1,24 @@
+{
+  "name": "ReHashed",
+  "version": "1.0.0",
+  "description": "blog by Praveen",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve --quiet",
+    "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
+    "debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
+    "benchmark": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
+  },
+  "keywords": [
+    "ReHashed",
+    "Praveen"
+  ],
+  "author": "Praveen",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-plugin-rss": "^2.0.2",
+    "eleventy-plugin-code-style-hooks": "^2.0.2"
+  }
+}
