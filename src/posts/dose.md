@@ -23,18 +23,18 @@ Some common symptoms that indicate your dopamine not functioning well
 - Lack of pleasure in things you enjoyed once
 - Craving for stimulants like coffee, sugary snack or checking phone often
 
-What can you do to improve dopamine function?
+How can one improve dopamine function?
 
 - Phone fasting
 
-  - No phone at the start or end of the day. You don’t want to crash your dopamine as soon as you wake up or before going to sleep.
+  - No phone at the start or end of the day. Picking up phone right after waking up gives high does of dopamine to brain which then struggles for other things in the day because of low dopamine baseline
 
-  - Turn off all notifications, and keep them only for your family and loved ones. This is like taking control back from your phone, which constantly stimulates you with notifications that are 99% of the time unimportant.
+  - No notifications except emergency ones. Brain does not like constant stimulaton and it gets exhausted by it
 
 - Flow state
 
-  - Set aside a few hours each day for deep work, where you focus on a single task without distractions. Deep work increases focus & attention also reduces mental fatigue you get from constant context switching.
-  - Studies show that our brain needs around 15 minutes to get into a flow state. Once there, your brain becomes hyper-focused on the task, generating good, gradual dopamine.
+  - Setting aside a few hours each day for deep work, where you focus on a single task without distractions. Deep work increases focus & attention also reduces mental fatigue you get from constant context switching.
+  - Studies show that brain needs around 15 minutes to get into a flow state. Once there, your brain becomes hyper-focused on the task, generating good, gradual dopamine.
   - Engaging in interesting or challenging work, listening to music, or even cleaning your home can help you enter a flow state.
 
 - Boredom
@@ -55,11 +55,11 @@ What can you do to improve dopamine function?
 
 #### Oxytocin
 
-Oxytocin helps to create feelings of love, trust, and bonding in humans. When you have healthy levels of oxytocin you feel confident, calmer and full filled. Brain releases oxcytocin when you connect with other human
+Oxytocin helps to create feelings of love, trust, enhancing trust, empathy, and connection between individuals. When brain have healthy levels of oxytocin it becomes confident, calmer and full filled.
 
-Anything that distracts our capacity to connect with other reduces the this chemical in brain. Connecting via social media moderately satisfies this chemical then chemical starts kicking back and starts dysfunctioning.
+Modern lifestyle, with less face-to-face interaction, more stress, and increased reliance on technology, can disrupt natural oxytocin levels. Anything that distracts our capacity to connect with other reduces the this chemical in brain. Connecting via social media moderately satisfies this chemical then chemical starts kicking back and starts dysfunctioning.
 
-What can you do to improve oxcytocin function?
+How can one improve oxcytocin function?
 
 - Physical touch
 
@@ -71,40 +71,65 @@ What can you do to improve oxcytocin function?
 
 - Active listening
 
-  - When someone speaks to you listening to them actively to undestand them instead of thinking what you could reply.
+  - When someone speaks to you listening to them actively to undestand them raises oxytocin
 
 - Style of self talk
 
-  - Have a list of things you are greatful in life, revisit them at least once a day which might take few minutes
+  - If your self talk often contains the list of things you are greatful for and things this gives boost to oxcytocin
 
-- Celebrate your achievements
-  - Celebrate your small wins and achievements. This leads to higher oxcytocin and confidence
-  - Be easy on yourself when you make mistakes, if you are over critical to yourself its hard to be confident
+- Celebrating achievements
+  - Celebrating even the small wins and achievements leads to higher oxcytocin and confidence
 
 #### Serotonin
 
 Also known as feel good chemical seretonin responsible for mood, energy & sleep. A big percentage of this gets generated in our gut and ultra processed food makes it hard to get healthy levels of seretonin. Low levels of seretonin is one of reasons behind low mood, brain fogg and tiredness.
 
-What can you do to elevate seretonin levels?
+How can one elevate seretonin levels?
 
 - Gut Health
 
-  - If you are consuming nutrient-dense, whole foods (such as protein sources, fruits, vegetables, nuts, seeds) this elevates serotonin production in the gut. Processed foods disrupt this, causing dips in serotonin levels.
-  - Probiotics: Consume probiotic-rich foods like kombucha, kefir, or yogurt to support gut health and serotonin production.
+  - Consuming nutrient-dense, whole foods (such as protein sources, fruits, vegetables, nuts, seeds) elevates serotonin production in the gut. Processed foods disrupt this, causing dips in serotonin levels.
+  - Probiotics: Consuming probiotic-rich foods like kombucha, kefir, or yogurt to support gut health and serotonin production.
 
 - Walk in Nature Without Headphones
 
-  - Spend time walking in nature. This helps restore serotonin levels, calms the nervous system, and reconnects the body with its natural environment.
+  - This helps restore serotonin levels, calms the nervous system, and reconnects the body with its natural environment.
 
 - Sunlight
 
-  - Get sunlight exposure, especially in the morning. It helps elevate serotonin levels and sets up your day with an energetic boost.
+  - Sunlight exposure, especially in the morning helps elevate serotonin levels
 
 - Slow Breathing
 
-  - Practice resonance breathing (four seconds in, six seconds out) to calm the nervous system and elevate serotonin levels. Doing this while in sunlight amplifies the effect.
+  - Slow breating and medidation elevate serotonin levels.
 
 - Sleep
-  - good sleep quality promotes serotonin production, which helps mental clarity and mood the next day. Avoid sugary foods or excessive dopamine-triggering behaviors before bed.
+  - Good sleep quality promotes serotonin production, which helps mental clarity and mood the next day.
 
 #### Endorphin
+
+Endorphins are chemicals produced by the brain and nervous system to help the body cope with pain or stress. Endorphins are often referred to as "feel-good" hormones because they can create a sense well-being, similar to the effects of opioid drugs, but without the addiction risk.
+
+Modern lifestyles disrupt endorphin production through sedentary behavior, chronic stress and poor sleep
+
+How can one elevate endorphins levels?
+
+- Exercise
+
+  - Physical exercise like running, swimming, cycling, or working out triggers the release of endorphins. The "runner's high" is a well-known example of this effect. Body needs at least 30 minutes of exercise a few times a week.
+
+- Heat
+
+  - heat from a sauna can help release endorphins
+
+- Music
+
+  - Listening to music or singing out loud can release endorphins
+
+- Laughter
+
+  - When you laugh body poruduces endorphins
+
+- Streching
+
+  - streching your body like yoga increases endorphins
