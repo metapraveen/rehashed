@@ -9,6 +9,8 @@ Hi,
 
 I am Praveen and ReHashed is my attempt to do long form writing on the things I read/hear or have experience on.
 
-This blog is built using <a href="https://www.11ty.dev/" target="_blank">11ty</a> and deployed using <a href="https://render.com/"  target="_blank" >render<a>.
+This blog is built using [11ty](https://www.11ty.dev) and deployed using [render](https://render.com).
 
-You can see its source code <a href="https://github.com/metapraveen/rehashed/"  target="_blank" >here on github<a>
+Its source code is [here on github](https://github.com/metapraveen/rehashed/)
+
+Render makes it so easy that when I do git push it publishes my blog free of cost which makes writing blog such a joy.

@@ -5,7 +5,8 @@ tags:
   - habits
 ---
 
-I recently listened a <a herf="https://podcasts.apple.com/gb/podcast/how-dopamine-shapes-your-habits-and-productivity-tj-power/id1587142091?i=1000670956558" target="_blank">podcast </a> about how different brain chemicals shapes our habits and motivation. I took notes while listening as it was too much to absorb at once.
+I recently listened [a podcast](https://podcasts.apple.com/gb/podcast/how-dopamine-shapes-your-habits-and-productivity-tj-power/id1587142091?i=1000670956558)
+about how different brain chemicals shapes our habits and motivation. I took notes while listening as it was too much to absorb at once.
 This blog is my notes with with my perspective about it.
 
 The 4 main brain chemicals which effect our habits/motivation are Dopamine, Oxytocin Serotonin and Endorphins (D.O.S.E.)
