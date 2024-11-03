@@ -7,31 +7,30 @@ tags:
 
 It’s been more than 5 years since I joined my current employer [remerge](remerge.io) and the reason for this long stay (relative to retention in tech industry) is the management style and company culture at Remerge, which I call macro management.
 
-I found the compnay culture good (and others too if you check [glassdoor](https://www.glassdoor.co.in/Reviews/Remerge-Reviews-E1200273.htm)). Most of my team members are with company for 4+ years while the compnay itself founded in 2014. If I ever have my own company I will copy the managment style and culture of remerge.
-So this blog is about what made remerge culture success and how it helps both company and employees (and not about hey look at my workplace its so cool.)
+I found the company culture positive (and others agree if you check [glassdoor](https://www.glassdoor.co.in/Reviews/Remerge-Reviews-E1200273.htm)). Most of my team members have been with the company for 4+ years, while the company itself was founded in 2014. If I ever start my own company, I would adopt Remerge's management style and culture. This blog discusses what makes Remerge’s culture successful and how it benefits both the company and employees (and not just a “look at my cool workplace” piece).
 
 1. Thinking about culture from day 1
 
-- remerge had a document about how the culture should be from initial days when the company was not profitable yet. So making sure culture is not a after thought made it core part of it. Also its not just in words but in the consistent actions of founders/managmetn style which makes it propogate it to entire company
+- Remerge had a document outlining its desired culture from its early days, even before the company was profitable. Making sure culture is not a after thought from the start ensured it became a core part of the company. This commitment to culture isn’t just in words but is demonstrated consistently through the founders’ actions and management style, which helps propagate it across the entire company.
 
 2. Transparecny
 
-- All the information about compnay (strategy, guiding policy, problems in hand etc) accessible to everyone including financial numbers. This helps everyone to take decision quickly and understand the whole company
-- CEO does a team meeting every 2 weeks where he shares information about market change, how company is doing, if we need any strategy change etc. This meeting is recorded along with a meeing document and shared in slack. So everyone are kept upto date with any changes, so you dont feel distanced from the compnay direction.
-- Every quarter CEO publishes a document called heartbeats where every team adds what was done in last quarter in few sentences, with this you can keep up with other teams at a high level.
-- This also improves the colleberation between the teams as it brings compnay wide alignment
+- All company information (strategy, guiding policy, current challenges, etc.) is accessible to everyone, including financial numbers. This transparency helps everyone make decisions quickly and understand the broader company context.
+- The CEO holds a team meeting every two weeks to share updates on market changes, company performance, and potential strategy shifts. These meetings are recorded, accompanied by meeting notes, and shared on Slack, so everyone stays up-to-date with any changes and feels aligned with the company direction.
+- Every quarter, the CEO publishes a document called “Heartbeats,” where each team summarizes its achievements from the last quarter in a few sentences. This allows everyone to stay informed about other teams at a high level..
+- This transparency improves collaboration between teams by fostering company-wide alignment
 
 3. Autonomy & trust
 
-- Compnay believes in trust and autonomy instead of telling what to do & how to do etc. This has made people to take more ownership in their work and more engaged.
-- You are encouraged to do deep focused work which brings long term value than being available on slack always.
-- People leading the teams are competent at the work they do and they grew with the company, who are there when one needs more context and understand nuances. Their job is not to micro manage anyone.
-- Often people structure their work day which makes them more productive.
+- The company values trust and autonomy rather than directing people on what to do and how to do it. This approach encourages people to take greater ownership of their work and increases engagement.
+- Deep, focused work is encouraged over constant Slack availability, this focuses long-term value creation.
+- The leaders in each team are competent, having grown with the company, and are there to provide context and guidance rather than micromanaging.
+- Often, employees structure their workday as they see fit, enhancing productivity than to add prove someone that they are working.
 
-4. No blame culture
+4. No-Blame Culture
 
-- There is understanding that everyone makes mistakes and we learn from it. So you could work/talk with your guards down. This improves the psychological safety.
-- One of the bug in production costed company close to half a million in revenue, but this was never pinned down on the employee who built that feature instead shared as learning and how we could avoid in future. And that employee continued to work with remerge more than 5 years.
+- There is an understanding that everyone makes mistakes, and mistakes are seen as learning opportunities. This approach improves psychological safety and allows people to work and communicate with guards down.
+- For example, a production bug once cost the company nearly half a million USD in revenue, but instead of blaming the employee who built that feature, it was shared as a learning experience to prevent similar issues in the future. That employee continued to work at Remerge for over 5 years.
 
 5. Striving for excellence and efficiency
 
